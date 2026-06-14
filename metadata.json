@@ -1,0 +1,6 @@
+{
+  "name": "TCRA Code Auditor",
+  "description": "An interactive evaluation suite based on the TCRA framework (Transparency, Controllability, Reliability, Auditability) to test and audit AI-generated code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
